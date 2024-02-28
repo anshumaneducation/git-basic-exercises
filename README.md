@@ -12,7 +12,7 @@ Please follow the given set of tutorial exercises before attempting this final t
 8. try to checkout this branch called submission/$YOUR_NAME on your local computer. You can do it, you’ll need to figure out how
 9. type in ```git remote -v```
 10. Now create your submission, your submission is an empty text file with your name like ```$YOUR_NAME.txt```. Figure this out on your own.
-11. Stage this file, commit it with the commit message "Anshuman git basic exercise submission" and then push it to remote. So Exciting!
+11. Stage this file, commit it with the commit message "Added an empty file for the git basic exercise final test" and then push it to remote. So Exciting!
 12. Now open the repository in your browser at ```https://github.com/anshumaneducation/git-basic-exercises```
 13. Go to the Pull requests tab and create a new pull request by clicking the green "New pull request button"
 14. Name of the pull request must be ```$YOUR_NAME's git basic exercise submission```
