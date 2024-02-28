@@ -18,6 +18,6 @@ Please follow the given set of tutorial exercises before attempting this final t
 14. Name of the pull request must be ```$YOUR_NAME's git basic exercise submission```
 15. Add a description of what the pull request is about in the description. I leave this up to you. Please dont disappoint.
 16. Once the pull request is created request your manager to review it. Your test is complete if it gets merged. If it gets rejected please restart from step 1.
-17.
-18.   May the git gods be with you!
+
+ May the git gods be with you!
 
