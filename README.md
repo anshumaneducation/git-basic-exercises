@@ -5,7 +5,7 @@ Please follow the given set of tutorial exercises before attempting this final t
 1. Clone this repo. Click on the friendly green button that says “Clone or download”. Click on it. 
 2. You will see a url come up. Copy it. You will need to paste it into the terminal in a moment
 3. In your terminal type in ``` git clone $THE_URL_YOU_JUST_COPIED ```. It should look something like this: ```git clone git@github.com:anshumaneducation/git-basic-exercises.git```
-4. ```cd``` into the submissions directory that was just created
+4. ```cd``` into the submissions directory that is already created
 5. explore a little using ```git branch``` and ```git log```
 6. type in ```git branch -a```. This shows the remote branches
 7. Create a new branch with ```git branch submission/$YOUR_NAME``` where ```$YOUR_NAME``` is your first name, for the love of God donot put your full name here.
