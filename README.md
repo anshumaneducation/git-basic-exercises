@@ -1,5 +1,8 @@
 # git-basic-exercises
-Please follow the given set of tutorial exercises before attempting this final test
+Following tutorial with a list of exercises that one can follow to learn git.
+The recommended way to learn is to follow all exercises on that page which means read the commands and type those commands out on a linux terminal or a windows shell. 
+https://umuzi-org.github.io/tech-department/projects/git-exercises/
+Once you are familiar with git, you can attempt this final test.
 
 ### Final Test
 1. Clone this repo. Click on the friendly green button that says “Clone or download”. Click on it. 
@@ -20,4 +23,3 @@ Please follow the given set of tutorial exercises before attempting this final t
 16. Once the pull request is created request your manager to review it. Your test is complete if it gets merged. If it gets rejected please restart from step 1.
 
  May the git gods be with you!
-
