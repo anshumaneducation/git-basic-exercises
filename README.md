@@ -1,4 +1,9 @@
 # git-basic-exercises
+### Exercises
+https://umuzi-org.github.io/tech-department/projects/git-exercises/
+
+The recommended way to learn is to follow all exercises on that page which means read the commands and type those commands out on a linux terminal or a windows shell. 
+
 Please follow the given set of tutorial exercises before attempting this final test
 
 ### Final Test
